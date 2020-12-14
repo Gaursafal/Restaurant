@@ -1,0 +1,13 @@
+.App{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-right :10px;
+}
+
+button{
+    margin: 0px 6px;
+}
+h3{
+    margin-left: 100px;
+}
